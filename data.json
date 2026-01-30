@@ -1,0 +1,56 @@
+{
+  "name": "FIER DE TOITS",
+  "id1": "Theux",
+  "id2": "L18099334",
+  "slug": "FIER+DE+TOITS",
+  "url": "https://www.goudengids.be/bedrijf/Theux/L18099334/FIER+DE+TOITS/",
+  "email": "fierdetoits@gmail.com",
+  "phone": "+32493994217",
+  "internationalPhone": "+32493994217",
+  "address": "Rue Xhavée 7",
+  "postalCode": "4910",
+  "city": "Polleur (Theux)",
+  "vatNumber": "BE0802472585",
+  "foundingDate": "2023-06-07",
+  "employeeCount": "0 of onbekend",
+  "companyStatus": "Actieve dossier",
+  "kboUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0802472585",
+  "categories": [
+    "Dakwerkers",
+    "Theux"
+  ],
+  "openingHours": {
+    "monday": "0:00 - 24:00",
+    "tuesday": "0:00 - 24:00",
+    "wednesday": "0:00 - 24:00",
+    "thursday": "0:00 - 24:00",
+    "friday": "0:00 - 24:00",
+    "saturday": "0:00 - 24:00",
+    "sunday": "0:00 - 24:00"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/jason seret"
+  },
+  "headerImage": "https://adserver.fcrmedia.com/www/images/43086a0c7888beb78a8318d1aaf89a65.png",
+  "galleryImages": [
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/466/062/466062586_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/464/153/464153179_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228051_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/747/460747963_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/229/434229275_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/360/460360252_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/724/457724344_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/725/457725169_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/455/940/455940448_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/145/434145170_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228011_coverimage.webp"
+  ],
+  "searchKeyword": "dakwerkers",
+  "scrapedAt": "2026-01-20T17:14:24.659Z",
+  "region": "wallonia",
+  "preferredLanguage": "francais",
+  "referenceUrl": "https://www.goudengids.be/bedrijf/Theux/L18099334/FIER+DE+TOITS/",
+  "templateId": "B",
+  "seed": 2642080908,
+  "generatedAt": "2026-01-24T21:50:15.986Z"
+}
